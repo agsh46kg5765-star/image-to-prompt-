@@ -1,0 +1,5 @@
+{
+  "name": "Image to Prompt Generator",
+  "description": "Upload an image and use the Gemini API to generate a detailed, descriptive prompt suitable for AI image generation models.",
+  "requestFramePermissions": []
+}
